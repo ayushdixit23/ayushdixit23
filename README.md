@@ -8,6 +8,9 @@
 
 - 📫 How to reach me **fsayush100@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdixit23&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdixit23" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushdixit23" alt="ayushdixit23" /></a> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_dixit_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdixitdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayushdixitdev) 
 
