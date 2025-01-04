@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 
+# 💫 About Me:
+
 - 🌱 I’m currently learning **Apache Kafka,RabbitMq,NoSql Databases and basic of Devops**
 
 - 💬 Ask me about **MERN stack , Python Programming and DSA**
