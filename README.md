@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Dixit</h1>
-<h3 align="center">A passionate full-stack developer who is excited to learn new things every day.</h3>
+<h1 align="center">Hi 👋, I'm Ayush</h1
 
 - 🌱 I’m currently learning **Apache Kafka,RabbitMq,NoSql Databases and basic of Devops**
 
