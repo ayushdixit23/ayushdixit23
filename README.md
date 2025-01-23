@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Apache Kafka,RabbitMq,Relational Databases and basic of Devops**
+- 🌱 I’m currently learning **DSA,Relational Databases and basic of Devops**
 
-- 💬 Ask me about **MERN stack , Python Programming and DSA**
+- 💬 Ask me about **MERN stack , Python Programming**
 
 - 📫 How to reach me **fsayush100@gmail.com**
 
