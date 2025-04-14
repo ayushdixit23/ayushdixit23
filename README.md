@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdixit23&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdixit23" /> </p>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/99216cd4-daca-44c3-8561-2da49f12f89d" width="350" height="320" alt="giphy" />
+  <img src="https://github.com/user-attachments/assets/99216cd4-daca-44c3-8561-2da49f12f89d" width="350" height="330" alt="giphy" />
   <img src="https://github.com/user-attachments/assets/8b94e7b2-c9c8-42ba-8a67-57d73ce5beb1" width="480" height="330" alt="giphy" />
 </p>
 
