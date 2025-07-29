@@ -21,10 +21,9 @@
 
 <br/>
 
-<a href="https://chatgpt.com/s/m_688916e08990819182968333e89bb78d" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20ChatGPT%20Thread-00AEFF?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Thread"/>
-</a>
+![Preview](./assets/readme.png)
 
+<br/>
 
 ## 🌐 Socials:
 
