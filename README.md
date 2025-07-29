@@ -21,8 +21,7 @@
 
 <br/>
 
-🔗 (https://chatgpt.com/s/m_688916e08990819182968333e89bb78d)
-
+🔗 [Check out my ChatGPT conversation](https://chatgpt.com/s/m_688916e08990819182968333e89bb78d)
 
 ## 🌐 Socials:
 
