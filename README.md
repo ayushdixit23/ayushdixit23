@@ -21,10 +21,6 @@
 
 <br/>
 
-<img src="./assets/readme.png" alt="Preview" height="300"/>
-
-<br/>
-
 ## 🌐 Socials:
 
 <p align="left">
