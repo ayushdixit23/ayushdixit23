@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [ayushdixit.site/resume.pdf](ayushdixit.site/resume.pdf)
 
-- ⚡ Fun fact **I think I am smart and funny**
+- ⚡ Fun fact:  **I think I am smart and funny**
 
 <br/>
 
