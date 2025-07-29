@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi <img src="https://github.com/user-attachments/assets/ec3388b2-baad-414c-ba08-78ddf1d87656" alt="pika" width="40" style="vertical-align: middle;" /> , I'm Ayush
 </h1>
+<br/>
 
 # 💫 About Me:
 
@@ -19,6 +20,9 @@
 - ⚡ Fun fact:  **I think I am smart and funny**
 
 <br/>
+
+🔗 (https://chatgpt.com/s/m_688916e08990819182968333e89bb78d)
+
 
 ## 🌐 Socials:
 
