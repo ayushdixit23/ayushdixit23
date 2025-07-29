@@ -21,7 +21,7 @@
 
 <br/>
 
-![Preview](./assets/readme.png)
+<img src="./assets/readme.png" alt="Preview" height="300"/>
 
 <br/>
 
