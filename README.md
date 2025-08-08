@@ -44,6 +44,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushdixit23&show_icons=true&locale=en" alt="ayushdixit23" /></p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit23&theme=default" alt="ayushdixit23 streak" />
+</p>
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushdixit23) 
 
