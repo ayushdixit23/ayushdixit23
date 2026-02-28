@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, SQL, Databases and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://ayushdixit.site](https://ayushdixit.site)
+- 👨‍💻 All of my projects are available at [https://ayushdixit.me](https://ayushdixit.me)
 
-- 📝 I regularly write articles on [https://blogs.ayushdixit.site](https://blogs.ayushdixit.site)
+- 📝 I regularly write articles on [https://blogs.ayushdixit.me](https://blogs.ayushdixit.me)
 
 - 💬 Ask me about **MERN stack, Next.js**
 
 - 📫 How to reach me **fsayush100@gmail.com**
 
-- 📄 Know about my experiences [https://ayushdixit.site/resume.pdf](https://ayushdixit.site/resume.pdf)
+- 📄 Know about my experiences [https://ayushdixit.me/resume.pdf](https://ayushdixit.me/resume.pdf)
 
 - ⚡ Fun fact: **I think I am smart and funny**
 
