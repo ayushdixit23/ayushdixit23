@@ -1,65 +1,131 @@
-<h1 align="center">
-  Hi <img src="https://github.com/user-attachments/assets/ec3388b2-baad-414c-ba08-78ddf1d87656" alt="pika" width="40" style="vertical-align: middle;" /> , I'm Ayush
-</h1>
-<br/>
+<div align="center">
 
-# 💫 About Me:
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Dixit&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, SQL, Databases and DevOps**
-
-- 👨‍💻 All of my projects are available at [https://ayushdixit.me](https://ayushdixit.me)
-
-- 📝 I regularly write articles on [https://blogs.ayushdixit.me](https://blogs.ayushdixit.me)
-
-- 💬 Ask me about **MERN stack, Next.js**
-
-- 📫 How to reach me **fsayush100@gmail.com**
-
-- 📄 Know about my experiences [https://ayushdixit.me/resume.pdf](https://ayushdixit.me/resume.pdf)
-
-- ⚡ Fun fact: **I think I am smart and funny**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+there!+I'm+Ayush+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%7C+Next.js;Learning+DSA%2C+DevOps+%26+Databases+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-## 🌐 Socials:
+<!-- Profile Views & Social Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=ayushdixit23&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/ayushdixit23)
+[![GitHub followers](https://img.shields.io/github/followers/ayushdixit23?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=Followers)](https://github.com/ayushdixit23?tab=followers)
 
-<p align="left">
-<a href="https://twitter.com/ayushdixitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushdixitdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushdixitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushdixitdev" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush_dixit_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_dixit_dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushdixitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushdixitdev" height="30" width="40" /></a>
-</p>
+</div>
 
-<br/>
+---
 
-# 💻 Languages and Tools:
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br/>
+## 🧑‍💻 About Me
 
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=ayushdixit23&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdixit23" /> 
-</p>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit23&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+```ts
+const ayush = {
+  name:       "Ayush Dixit",
+  location:   "Kanpur, India 🇮🇳",
+  role:       "Full-Stack Developer",
+  focus:      ["MERN Stack", "Next.js", "TypeScript"],
+  learning:   ["DSA", "SQL", "Databases", "DevOps"],
+  portfolio:  "https://ayushdixit.me",
+  blog:       "https://ayushdixit.hashnode.dev",
+  funFact:    "I think I am smart AND funny 😄",
+};
+```
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushdixit23&theme=onedark&margin-w=10&margin-h=10" alt="ayushdixit23" />
-  </a>
-</p>
+- 🌱 Currently deepening my knowledge in **DSA, SQL, Databases & DevOps**
+- 👨‍💻 All my projects live at **[ayushdixit.me](https://ayushdixit.me)**
+- 📝 I write tech articles at **[ayushdixit.hashnode.dev](https://ayushdixit.hashnode.dev)**
+- 💬 Ask me about **MERN Stack, Next.js, WebSockets, System Design**
+- 📄 My resume: **[View Here](https://ayushdixit.me/resume.pdf)**
+- 📫 Reach me: **fsayush100@gmail.com**
 
-<!-- Stats Grid -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushdixit23&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushdixit23&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" height="165"/>
-</p>
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit23&theme=onedark" alt="GitHub Streak Stats" height="165"/>
-</p>
+---
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushdixit23) 
+## 🌐 Connect With Me
 
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ayushdixitdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdixitdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayush_dixit_dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/ayushdixitdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ayushdixit.me)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Upload tech-stack.png to this repo (same repo as this README), then this will render automatically -->
+<img src="https://raw.githubusercontent.com/ayushdixit23/ayushdixit23/main/tech-stack.png" alt="Tech Stack" width="100%"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushdixit23&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushdixit23&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit23&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="500"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ayushdixit23)
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushdixit23/ayushdixit23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushdixit23/ayushdixit23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushdixit23/ayushdixit23/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+**Made with ❤️ by [Ayush Dixit](https://ayushdixit.me)**
+
+*"I think I am smart and funny" — Ayush Dixit, <!--CURRENT_YEAR-->2026<!--/CURRENT_YEAR-->*
+
+</div>
