@@ -25,7 +25,7 @@
 ```ts
 const aboutMe = {
   name:       "Ayush Dixit",
-  location:   "Kanpur, India 🇮🇳",
+  location:   "Kanpur, Uttar Pradesh, India 🇮🇳",
   role:       "Full-Stack Developer",
   focus:      ["MERN Stack", "Next.js", "TypeScript"],
   learning:   ["DSA", "SQL", "Databases", "DevOps"],
@@ -48,21 +48,15 @@ const aboutMe = {
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ayushdixitdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdixitdev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayush_dixit_dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/ayushdixitdev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ayushdixit.me)
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages & Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -114,8 +108,6 @@ const aboutMe = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
 
 ---
 
