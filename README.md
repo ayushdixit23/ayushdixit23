@@ -23,7 +23,7 @@
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```ts
-const ayush = {
+const aboutMe = {
   name:       "Ayush Dixit",
   location:   "Kanpur, India 🇮🇳",
   role:       "Full-Stack Developer",
