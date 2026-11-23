@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ayush Dixit
 
-<!--
-**ayushdixit23/ayushdixit23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **This account (`ayushdixit23`) was temporarily renamed.**
+> The active profile and all repositories now live at **https://github.com/25f3005585**.
 
-Here are some ideas to get you started:
+## Looking for my work?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything — projects, commits, and pinned repositories — is here:
+
+### → [github.com/25f3005585](https://github.com/25f3005585)
+
+`25f3005585` is a temporary handle, not a different person. Old links to
+`github.com/ayushdixit23/...` may redirect, but the canonical location is the
+link above.
+
+## Elsewhere
+
+- Portfolio — [ayushdixit.me](https://ayushdixit.me)
+- LinkedIn — [in/ayushdixitdev](https://www.linkedin.com/in/ayushdixitdev)
+- X — [@ayushdixitdev](https://x.com/ayushdixitdev)
+- LeetCode — [ayushdixitdev](https://leetcode.com/u/ayushdixitdev)
+
+---
+
+**Have a project or role in mind?** [Get in touch](mailto:fsayush100@gmail.com).
